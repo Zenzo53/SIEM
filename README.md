@@ -1,4 +1,4 @@
-# SIEM - WORK IN PROCESS
+# SIEM 
 
 ## Objective
 
